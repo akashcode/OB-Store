@@ -1,0 +1,10 @@
+*
+*/
+!.gitignore
+!build.xml
+!README.md
+!lib/
+!nbproject/
+!src/
+!web/
+
